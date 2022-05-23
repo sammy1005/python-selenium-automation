@@ -1,0 +1,3 @@
+$x('//div[@class="SearchBar__view SearchBar__view--expanded"]')
+Amazonlogo $x('//i[@class="a-icon a-icon-logo"]')
+Amazon sign-in bar $x('//input[@id="ap_email"]')

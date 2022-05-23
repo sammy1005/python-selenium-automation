@@ -1,0 +1,1 @@
+driver.find.element(By.XPATH, "//img[@class='help-search-image']").click()opl;''

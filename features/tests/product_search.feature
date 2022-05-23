@@ -5,5 +5,4 @@ Feature: Test Scenarios for Search functionality
     Given Open Google page
     When Input Ham Radio into search field
     And Click on search icon
-    Then Product results for Ham Radio are shown
-    And First result contains Ham Radio
+    Then Product results for Ham+Radio are shown
